@@ -6,27 +6,7 @@ This is a console-based Java application of the classic Tic Tac Toe (X-O) game. 
 
 The goal is to provide a structured, extensible, and beginner-friendly codebase that can serve as both a learning tool and a game demo.
 
-📁 Project Structure
-bash
-Copy
-Edit
-tic-tac-toe/
-│
-├── README.md
-├── src/
-│   ├── main/
-│   │   └── Main.java                  # Application entry point
-│   │
-│   ├── models/
-│   │   ├── Player.java                # Player model
-│   │   └── Board.java                 # Board state and operations
-│   │
-│   ├── services/
-│   │   └── GameService.java           # Game logic and flow
-│   │
-│   └── exceptions/
-│       ├── InvalidMoveException.java # Custom exception for invalid input
-│       └── GameOverException.java    # Optional: signals end of game
+
 🚀 Features
 Two-player turn-based play
 
